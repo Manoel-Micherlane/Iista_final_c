@@ -1,4 +1,4 @@
-/*2. Ler um número inteiro e imprimir seu sucessor e seu antecessor.
+/*2.  Ler um número inteiro e imprimir seu sucessor e seu antecessor.
 */
 
 #include <stdio.h>
